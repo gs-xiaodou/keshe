@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Keyword_Extraction.cpp
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(42,14): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(71,13): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(77,13): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(96,13): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(111,15): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Term.h(135,22): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Keyword_Extraction.cpp(96,12): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Keyword_Extraction.cpp(117,12): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Keyword_Extraction.cpp(178,11): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Keyword_Extraction\Keyword_Extraction.cpp(199,11): warning C4018:  “<”: 有符号/无符号不匹配
+    正在创建库 C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Debug\Keyword_Extraction.lib 和对象 C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Debug\Keyword_Extraction.exp
+  Keyword_Extraction.vcxproj -> C:\Users\齐昌航\Desktop\C++ (1)\KeywordExtraction(dll)\Debug\Keyword_Extraction.dll
