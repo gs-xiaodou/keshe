@@ -1,5 +1,5 @@
 # Keywords Extraction
-## The Influence Of User Review On Software Quality Design Based On A Game Application/基于某游戏应用的用户评论对于软件质量设计的影响
+## The Influence Of User Review On Software Quality Design Based On A Game Application
 
 Our research topic is the impact of user comments on software quality design based on a game application. The so-called software quality refers to the extent to which the software is consistent with clearly and implicably defined requirements. Our research is divided into five influencing factors: correctness, robustness, reliability, performance and maneuverability. In order to explore the importance of these five influencing factors on software quality, we collect a large number of feedback from user comments for a game application. At the same time, a program for keyword extraction of text information for a large number of comments is designed, and the keyword extraction is carried out to arrange the hot words in the user comments. We also design the thesaurus, match the hot words with the information in the thesaurus, classify them according to the influencing factors of software quality corresponding to keywords, and arrange them in turn according to the importance. Then the results are analyzed, and the main factors affecting the quality of software are obtained.
 
